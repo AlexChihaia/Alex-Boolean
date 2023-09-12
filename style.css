@@ -1,0 +1,101 @@
+.logo{
+    width: 200px;
+    background-color: transparent;
+}
+
+
+
+
+header{
+    text-align: center;
+    margin-top: 50px;
+}
+
+
+.sottotitolo{
+    color: limegreen;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+
+.barra-navigazione{
+    text-align: center;
+    background-color: lime;
+    line-height: 40px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+
+.Container{
+    margin-top: 50px;
+    position: absolute;
+    top: 10px;
+    left: 460px;
+    width: 1000px;
+    height: 850px;
+    border-radius: 20px 20px 20px 20px;
+    background-color: rgba(0,0,0,.5)
+}
+
+.checkbox{
+    margin-top: 20px;
+    margin-left: 80px;
+}
+.Monopattino{
+    font-size: 30px;
+    color: white;
+    display: inline-block;
+    margin-bottom: 1px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.freccia{
+    margin-left: 80px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.carica{
+    margin-left: 80px;
+    color: white;
+}
+
+
+.barra-carica1{
+    margin-left: 80px;
+    margin-right: 80px;
+    background-color: orange;
+    width: 300px;
+    height: 20px;
+    border: solid orange;
+    border-radius: 8px 8px 8px 8px;
+}
+
+.barra-carica2{
+    margin-left: 80px;
+    margin-right: 80px;
+    background-color: green;
+    width: 500px;
+    height: 20px;
+    border: solid green;
+    border-radius: 8px 8px 8px 8px;
+}
+
+
+.barra-carica3{
+    margin-left: 80px;
+    margin-right: 80px;
+    background-color: red;
+    width: 100px;
+    height: 20px;
+    border: solid red;
+    border-radius: 8px 8px 8px 8px;
+}
+
+
+body{
+    background-image: url(background.jpg);
+    background-size: 100%;
+}
